@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+#button1,
+#button2 {
+    font-size:bold;
+    font-size:36px;
+    outline-color:black;
+}
+#button1 {
+    background-color:black;
+    color: white
+}
+
+#button2 {
+    background-color:yellow;
+    color: black
+}
